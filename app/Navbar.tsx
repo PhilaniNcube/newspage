@@ -14,7 +14,7 @@ const links = [
 const Navbar = () => {
   return (
     <nav>
-      <div className="max-w-7xl mx-auto flex items-center justify-between py-4">
+      <div className="max-w-7xl mx-auto flex items-center justify-between px-8 py-4">
 
         <img src="/images/logo.svg" className="w-20 object-cover" alt="logo" />
 
